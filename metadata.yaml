@@ -1,0 +1,30 @@
+_repo: Die-Cigarette-b-Ein-Vademecum-fur-Raucher_73143
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dirk, Stephan
+    gutenberg_agent_id: '56959'
+    url: http://www.gutenberg.org/2009/agents/56959
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73143'
+language: de
+pgterms:marc905: 20220817093637dirk
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag für Industrie-Kultur, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tobacco use'
+- !lcsh 'Smoking'
+- !lcsh 'Cigarette smokers'
+- !lcsh 'Nicotine addiction'
+- !lcc 'HV'
+- GITenberg
+title: 'Die Cigarette : $b Ein Vademecum für Raucher'
+url: http://www.gutenberg.org/ebooks/73143
